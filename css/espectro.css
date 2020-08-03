@@ -1,0 +1,416 @@
+body {
+	background-image: url("pegaso3.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+}
+h1,h2,h3 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+.titulo-principal1 {
+	background-color: #000000;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	text-align: center;
+	color: rgb(94, 1, 138);
+	border-bottom: 3px solid black;
+	font-size: 25px;
+	padding: 13px;
+	text-transform: uppercase;
+}
+.titulo-principal2 {
+	background-color: #000000;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	clear: both;
+	text-align: center;
+	color: #FFF;
+	border-bottom: 2px solid black;
+	font-size: 19px;
+	padding: 7px;
+	text-transform: uppercase;
+}
+style
+{
+text-decoration:none;
+}
+
+nav{
+	background-color: #000000;
+	width: auto;
+	color: #FFF;
+	border-bottom: 3px solid black;
+	font-size: 19px;
+	padding: 13px;
+	display:inline-block;
+}
+ul{
+	text-align: center;
+	color: #FFF;
+}
+.titulo-secundario {
+	text-align: justify;
+	margin: 0px;
+	font-size: 30px;
+	height: 50px;
+}
+.titulo-Inicial{
+	text-transform: uppercase;
+	font-size: 48px;
+	height:50px;
+	text-align: center;
+}
+.cavaleiro-espectro {
+	font-size: 23px;
+	height: 40px;
+	color: rgb(94, 1, 138);
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+}
+.descrição{
+	float: right;
+	height: 320px;
+	width: 400px;
+	font-size: 19px;
+	padding: 8px;
+	background-color: #D9E5E3;
+	border: 10px solid;
+	border-color: rgb(56, 2, 82);
+	box-sizing: border-box
+}
+h3 {
+	font-size: 30px;
+	padding: 6px;
+	height: 24px;
+	color: black;
+}
+p {
+	font-family: Arial;
+	font-size: 17px;
+	padding: 9px;
+	border: 50px;
+	text-align: justify;
+}
+.p1{
+	font-family: Arial;
+	font-size: 17px;
+	width: 900px;
+	text-align: justify;
+	margin: 5rem;
+	height: 25px;
+ }
+.p2{
+   text-align: center;
+   height:460px
+   
+}
+.p3{
+	font-family: Arial;
+	width: 620px;
+    font-size: 17px;
+    padding: 9px;
+    border: 50px;
+	text-align: justify;
+	
+}
+
+main {
+	background-color: rgb(157, 170, 211);
+	width: 1100px;
+	height: 90%;
+	max-height: 30%;
+	line-height: 120%;
+	margin: 10%;
+	border-bottom: 10px solid transparent;
+	margin: auto;
+	padding: 25px;
+	clear: both;
+}
+div {
+	height: 90%;
+	padding: 10px;
+}
+strong {
+	font-weight: bold;
+}
+
+.rodape-pagina {
+	background-color: rgb(18, 2, 78);
+	color: #F2FFFC;
+	padding: 5px;
+	clear: both;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+.github {
+	background-image: url(../img/github.png);
+}
+.icones-redes-sociais a {
+	width: 40px;
+	height: 40px;
+	display: block;
+	text-indent: -99999px;
+}
+.icones-redes-sociais li {
+	display: inline-block;
+}
+/*Caronte de Aqueronte
+Classificação:
+Espectro de Hades
+Informações:
+Caronte de Aqueronte, Estrela Celeste do Hiato/Lacuna é um dos espectros de Hades. Seu nome vem da mitologia. Assim como na série, Caronte é o nome do barqueiro do inferno.
+Armadura:
+Sobrepeliz de Aqueronte
+Estrela:
+Estrela Celeste do Hiato
+Divindade:
+Hades
+Técnicas:
+Redemoinho Esmagador
+ 
+ 
+Faraó de Esfinge
+Classificação:
+Espectro de Hades
+Informações:
+Faraó de Esfinge, Estrela Celeste da Besta é um dos espectros de Hades. Seu nome vem de Faraó, nome dado aos governantes máximos do antigo Egito
+Armadura:
+Sobrepeliz de Esfinge
+Estrela:
+Estrela Celeste da Besta
+Divindade:
+Hades
+Técnicas:
+Balança da Maldição
+Beijo na Escuridão
+ 
+ 
+ 
+ 
+ 
+ 
+Flégias de Lycaon
+Classificação:
+Espectro de Hades
+Informações:
+Flégias de Lycaon, a Estrela Celeste do Crime é um dos espectros de Hades.
+Armadura:
+Sobrepeliz de Lycaon
+Estrela:
+Estrela Celeste do Crime
+Divindade:
+Hades
+Técnicas:
+Uivo Infernal
+ 
+ 
+Giganto de Ciclope
+Classificação:
+Espectro de Hades
+Informações:
+Giganto de Ciclope, a Estrela Terrestre Violenta é um dos espectros de Hades.
+Armadura:
+Sobrepeliz de Ciclope
+Estrela:
+Estrela Terrestre Violenta
+Divindade:
+Hades
+Técnicas:
+Abraço Gigante
+Junta Gigante
+ 
+ 
+Gordon de Minotauro
+Classificação:
+Espectro de Hades
+Informações:
+Gordon de Minotauro, Estrela Celeste do Cárcere é um dos espectros de Hades.
+Armadura:
+Sobrepeliz de Minotauro
+Estrela:
+Estrela Celeste do Cárcere
+Divindade:
+Hades
+Técnicas:
+Grande Machado Esmagador
+ 
+ 
+Iwan de Troll
+Classificação:
+Espectro de Hades
+Informações:
+Iwan de Troll, Estrela Celeste da Derrota é um dos espectros de Hades
+Armadura:
+Sobrepeliz de Troll
+Estrela:
+Estrela Celeste da Derrota
+Divindade:
+Hades
+Técnicas:
+Máxima Perestroika
+ 
+Lune de Balron
+Classificação:
+Espectro de Hades
+Informações:
+Lune de Balron, Estrela Celeste da Iminência é um dos espectros de Hades
+Armadura:
+Sobrepeliz de Balron
+Estrela:
+Estrela Celeste da Iminência
+Divindade:
+Hades
+Técnicas:
+Chicote de Fogo
+Reencarnação
+ 
+ 
+Myu de Papillon
+Classificação:
+Espectro de Hades
+Informações:
+Myu de Papillon, a Estrela Terrestre do Encantamento é um dos 108 Espectros de Hades.
+Armadura:
+Sobrepeliz de Papillon
+Estrela:
+A Estrela Terrestre do Encantamento
+Divindade:
+Hades
+Técnicas:
+Erupção Horrenda
+Fios de Seda
+Encantamento Mortal
+ 
+ 
+Niobe de Deep
+Classificação:
+Espectro de Hades
+Informações:
+Niobe de Deep, Estrela Terrestre das Trevas é um dos espectros de Hades
+Armadura:
+Sobrepeliz de Deep
+Estrela:
+Estrela Terrestre das Trevas
+Divindade:
+Hades
+Técnicas:
+Fragrância Profunda
+Perfume Mortal
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Queen Alraune
+Classificação:
+Espectro de Hades
+Informações:
+Queen de Alraune, Estrela Celeste Demoníaca é um dos guerreiros espectros de Hades 
+Armadura:
+Sobrepeliz de Alraune
+Estrela:
+Estrela Celeste Demoníaca
+Divindade:
+Hades
+Técnicas:
+Guilhotina da Flor Sangrenta
+ 
+ 
+Raimi de Verme
+Classificação:
+Espectro de Hades
+Informações:
+Raimi de Verme, Estrela Terrestre da Submissão é um dos espectros de Hades 
+Armadura:
+Sobrepeliz de Verme
+Estrela:
+Estrela Terrestre da Submissão
+Divindade:
+Hades
+Técnicas:
+Tentáculos do Verme
+ 
+ 
+Rock de Golem
+Classificação:
+Espectro de Hades
+Informações:
+Rock de Golem, Estrela Celeste do Chifre é um dos espectros de Hades
+Armadura:
+Sobrepeliz de Golem
+Estrela:
+Estrela Celeste do Chifre
+Divindade:
+Hades
+Técnicas:
+Avalanche Explosiva
+ 
+ 
+Stand de Besouro
+Classificação:
+Espectro de Hades
+Informações:
+Stand de Besouro Mortal, Estrela Celeste da Feiúra é um dos espectros de Hades.
+Armadura:
+Sobrepeliz de Besouro
+Estrela:
+Estrela Celeste da Feiúra
+Divindade:
+Hades
+Técnicas:
+Grande Parede
+Fique Comigo
+ 
+ 
+Sylphid de Basilisco
+Classificação:
+Espectro de Hades
+Informações:
+Sylphid de Basilisco, Estrela Celeste da Perspicácia é um dos espectros de Hades
+Armadura:
+Sobrepeliz de Basilisco
+Estrela:
+Estrela Celeste da Perspicácia
+Divindade:
+Hades
+Técnicas:
+Vôo do Extermínio
+ 
+ 
+Valentine de Harpia
+Classificação:
+Espectro de Hades
+Informações:
+Valentine de Harpia, Estrela Celeste do Clamor é um dos espectros de Hades 
+Armadura:
+Sobrepeliz de Harpia
+Estrela:
+Estrela Celeste do Clamor
+Divindade:
+Hades
+Técnicas:
+Devorador de Vidas
+ 
+ 
+Zeros de Sapo
+Classificação:
+Espectro de Hades
+Informações:
+Zeros de Sapo, Estrela Terrestre Bizarra é um dos espectros de Hades
+Armadura:
+Sobrepeliz de Sapo
+Estrela:
+Estrela Terrestre Bizarra
+Divindade:
+Hades
+Técnicas:
+Salto Esmagador*/
+

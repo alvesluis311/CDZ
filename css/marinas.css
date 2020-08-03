@@ -1,0 +1,243 @@
+body {
+	background-image: url("pegaso3.jpg");
+	background-attachment: fixed;
+	background-size: 100%;
+}
+h1,h2,h3 {
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+}
+.titulo-principal1 {
+	background-color: #000000;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	text-align: center;
+	color: rgb(255, 147, 7);
+	border-bottom: 3px solid black;
+	font-size: 25px;
+	padding: 13px;
+	text-transform: uppercase;
+	
+}
+.titulo-principal2 {
+	background-color: #000000;
+	width: 100%;
+	position: fixed;
+	left: 0;
+	clear: both;
+	text-align: center;
+	color: #FFF;
+	border-bottom: 2px solid black;
+	font-size: 19px;
+	padding: 7px;
+	text-transform: uppercase;
+}
+style
+{
+text-decoration:none;
+}
+
+nav{
+	background-color: #000000;
+	width: auto;
+	color: #FFF;
+	border-bottom: 3px solid black;
+	font-size: 19px;
+	padding: 13px;
+	display:inline-block;
+}
+ul{
+	text-align: center;
+	color: #FFF;
+}
+.titulo-secundario {
+	text-align: justify;
+	margin: 0px;
+	font-size: 30px;
+	height: 50px;
+}
+.titulo-Inicial{
+	text-transform: uppercase;
+	font-size: 48px;
+	height:50px;
+	text-align: center;
+}
+.cavaleiro-marina {
+	font-size: 23px;
+	height: 40px;
+	color: rgb(255, 147, 7);
+	text-shadow: 1px 1px 1px black;
+	text-align: center;
+}
+.descrição{
+	float: right;
+	height: 320px;
+	width: 400px;
+	font-size: 19px;
+	padding: 8px;
+	background-color: #D9E5E3;
+	border: 10px solid;
+	border-color:rgb(255, 147, 7);
+	box-sizing: border-box
+}
+h3 {
+	font-size: 30px;
+	padding: 6px;
+	height: 24px;
+	color: black;
+}
+p {
+	font-family: Arial;
+	font-size: 17px;
+	padding: 9px;
+	border: 50px;
+	text-align: justify;
+}
+.p1{
+	font-family: Arial;
+	font-size: 17px;
+	width: 900px;
+	text-align: justify;
+	margin: 5rem;
+	height: 25px;
+ }
+.p2{
+   text-align: center;
+   height:510px
+   
+}
+.p3{
+	font-family: Arial;
+	width: 620px;
+    font-size: 17px;
+    padding: 9px;
+    border: 50px;
+    text-align: justify;
+}
+main {
+	background-color: rgb(157, 170, 211);
+	width: 1100px;
+	height: 90%;
+	max-height: 30%;
+	line-height: 120%;
+	margin: 10%;
+	border-bottom: 10px solid transparent;
+	margin: auto;
+	padding: 25px;
+	clear: both;
+}
+div {
+	height: 90%;
+	padding: 10px;
+}
+strong {
+	font-weight: bold;
+}
+
+.rodape-pagina {
+	background-color: rgb(18, 2, 78);
+	color: #F2FFFC;
+	padding: 5px;
+	clear: both;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+}
+.github {
+	background-image: url(../img/github.png);
+}
+.icones-redes-sociais a {
+	width: 40px;
+	height: 40px;
+	display: block;
+	text-indent: -99999px;
+}
+.icones-redes-sociais li {
+	display: inline-block;
+}
+
+ 
+/*Bian de Cavalo Marinho
+Classificação:
+General Marina de Poseidon
+Informações:
+Bian de Cavalo Marinho é o Marina de Cavalo Marinho e um dos mais poderosos entre os sete Generais Marinas de Poseidon. Protege o Pilar do Oceano Pacífico Norte. Bian possui o mesmo nível de capacidade de um Cavaleiro de Ouro, mas jamais enfrentou um inimigo mais forte que ele.
+Armadura:
+Escama de Cavalo Marinho
+Pilar:
+Pilar do Pacífico Norte
+Divindade:
+Poseidon
+Técnicas:
+Assopro de Divino
+Ventos de Furacão
+ 
+ 
+Io de Scylla
+Classificação:
+General Marina de Poseidon
+Informações:
+Io de Scylla é um dos 7 Generais Marinas que protegia o Pilar do Oceano Pacífico Sul. Scylla ou Cila era um lendário monstro marinho com metade de cima do corpo a imagem de uma linda virgem e, a metade de baixo, seis bestas demoníacas. Assim como a lenda, Io esconde os poderes da águia, lobo, abelha, serpente, morcego e urso dentro de sua Escama.
+Armadura:
+Escama de Scylla
+Pilar:
+Pilar do Oceano Pacífico Sul
+Divindade:
+Poseidon
+Técnicas:
+Águia Poderosa
+Fúria do Lobo
+Ferrão da Abelha Rainha
+Serpente Assassina
+Ataque Vampiro
+Urso Infernal
+Tornado Violento
+ 
+Krishna de Chrysaor
+Classificação:
+General Marina de Poseidon
+Informações:
+Krishna de Chrysaor é um dos Generais Marinas, protetor do Pilar do Oceano Índico. Ele se identifica profundamente com o ideal de purificação da terra de Poseidon. Acreditava piamente que isso serviria para acabar com a era das trevas. Possui um lado místico que projeta um poder surpreendente quando o Kundalini, a sua energia cósmica, é liberada pelos seus chakras. É um guerreiro que respeita o oponente que ele considere digno, mesmo sendo o inimigo.
+Armadura:
+Escama de Chrysaor
+Pilar:
+Pilar do Oceano Índico
+Divindade:
+Poseidon
+Técnicas:
+Lança Relâmpago
+Maha Roshini
+ 
+ 
+ 
+ 
+ 
+ 
+Kasa de Lymnades
+Classificação:
+General Marina de Poseidon
+Informações:
+Kasa de Lymnades é um dos Generais Marinas, encarregado de proteger o Pilar do Oceano Antártico. A sua Escama representa um monstro das águas da mitologia grega. Ele tem o poder de ler a mente de uma pessoa e descobrir quem é o seu ser mais amado, imitando-o não só fisicamente, mas também psicologicamente. Esse golpe baixo que se aproveita da fraqueza do ser humano.
+Armadura:
+Escama de Lymnades
+Pilar:
+Pilar do Oceano Antártico
+Divindade:
+Poseidon
+Técnicas:
+Salamandra Satânica
+ 
+ 
+Isaak de Kraken
+Classificação:
+General Marina de Poseidon
+Informações:
+Isaak de Kraken é um dos Generais Marinas que protegia o Pilar do Oceano Ártico. Foi um dos discípulos de Camus na mesma época que Hyoga, mas acaba desaparecido depois de ser pego por uma forte correnteza salvando a vida de Hyoga. Resgatado por Poseidon, tornou-se um Marina. Com forte senso de justiça, era um homem de coração grandioso, como as vastas terras da Sibéria. Agora, ele acredita que, para salvar a terra de toda sujeira, precisa destruir tudo e recomeçar do zero, e estava decidido a ir até às últimas consequências pela justiça que ele acreditava.
+Armadura:
+Escama de Kraken
+Pilar:
+Pilar do Oceano Ártico
+Divindade:
+Poseidon
+Técnicas:
+Aurora Boreal*/
